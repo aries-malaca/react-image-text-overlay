@@ -61,5 +61,6 @@
   "dependencies": {
     "@types/styled-components": "^5.1.15",
     "styled-components": "^5.3.3"
-  }
+  },
+  "repository": "https://github.com/aries-malaca/react-image-text-overlay"
 }
